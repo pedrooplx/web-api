@@ -1,6 +1,6 @@
 using System;
 
-namespace RestAPI_Core
+namespace Movies.Api
 {
     public class WeatherForecast
     {
